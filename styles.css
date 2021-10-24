@@ -1,0 +1,63 @@
+*
+{
+
+	background-color: black;
+	font-family: Comic Sans MS;
+	padding: 10;
+	margin: 10;
+}
+html
+{
+	margin: 5px;
+	border: thick red solid;
+}
+
+h1
+{
+	color: blue;
+	background-color: orange;
+}
+
+.logo1,.logo-1,.logo2,.logo3,.logo4,.logo5,.logo6,.logo7,.logo8,.logo9,.logo10
+{
+	padding-right: 5px;
+	height: 50px;
+	width: 50px;
+	align-items: center;
+}
+.logo_1,.logo--1,.logo_2,.logo_3,.logo_4,.logo_5,.logo_6,.logo_7,.logo_8,.logo_9,.logo_10
+{
+	position: absolute;
+	padding: 5px;
+}
+.heading,.menu1,.menu2,.menu3,.menu4
+{
+	font-size: 160%;
+	color: white;
+	background-color: #00CFFF;
+	font-weight: bold;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	margin-bottom: 0px;
+}
+.fanpage
+{
+	font-size: 135%;
+	background-color: orange;
+	text-align: center;
+	font-weight: bold;
+}
+.menulist1 a,.menulist2 a,.menulist3
+{
+	color: white;
+	text-decoration-line: none;
+}
+.menulist1 a:hover,.menulist2 a:hover
+{
+	color: black;
+	background-color: orange;
+}
+.menulist3
+{
+	font-size: 120%;
+}
